@@ -1,7 +1,7 @@
-Welcome To The Multiplication Table
+# Welcome To The Multiplication Table
 This Script Is Created By Python
 
-```
+```python
 base_num = int(input("Enter Any Number: ")) # Taking The Base Number
 count = 1
 range_of_multiply = int(input("Enter The Range Of Multiplication: ")) # Taking The Range Of Multiplication
