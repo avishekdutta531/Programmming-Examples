@@ -1,5 +1,5 @@
 # Multiplication Table
------>This Script Is Created By Python<-----
+<----- This Script is Created by Python ----->
 
 ```python
 base_num = int(input("Enter Any Number: ")) # Taking The Base Number
